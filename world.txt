@@ -1,2 +1,3 @@
 Halo, dunia!
 Ini adalah perubahan yang dilakukan secara lokal.
+Ini adalah perubahan yang dilakukan langsung pada Github.

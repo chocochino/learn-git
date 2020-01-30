@@ -1,2 +1,2 @@
 Halo, dunia!
-Ini adalah perubahan yang harus disimpan.
+Ini adalah perubahan yang dilakukan secara lokal.
